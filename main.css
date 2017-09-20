@@ -1,15 +1,16 @@
   body {
-   background-color: #2b2b2b;
+   background-color: #da1884;
   }
 
   h1 {
-   color: #ff008d;
+   color: #fefefe;
    text-align: center;
-   font: italic 200% courier;
+   font: italic 200% harrington;
   }
 
-  p {
-   color: #33a8ff;
-   text-align: right;
-   border: 3px dotted #ff008d;
-  }
+p {
+ padding: 20px;
+ color: #fefefe;
+ text-align: center;
+ border: 3px dotted #ffeb7f;
+}
