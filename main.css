@@ -14,7 +14,7 @@ p {
  padding: 20px;
  color: #fefefe;
  text-align: center;
- border: 5px dotted #ffeb7f;
+ border: 6px dotted #ffeb7f;
 }
 
 a {
@@ -22,5 +22,5 @@ color: #add5ff;
 }
 
 hr {
-  border: 2px dashed #add5ff;
+  border: 3px dashed #add5ff;
 }
