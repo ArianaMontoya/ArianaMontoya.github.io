@@ -1,6 +1,7 @@
   body {
    background-color: #da1884;
     color: #fefefe;
+    Text-align: center
   }
 
   h1 {
@@ -13,8 +14,13 @@ p {
  padding: 20px;
  color: #fefefe;
  text-align: center;
- border: 3px dotted #ffeb7f;
+ border: 5px dotted #ffeb7f;
 }
+
 a {
 color: #add5ff;
+}
+
+hr {
+  border: 2px dashed #add5ff;
 }
