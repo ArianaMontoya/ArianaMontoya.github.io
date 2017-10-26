@@ -10,6 +10,7 @@ body {
 	height: 100%;
 	background-color: #FD5EB3;
 	color: white;
+	font-family: 'Roboto Mono' , monospace;
 }
 
 a {
